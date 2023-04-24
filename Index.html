@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100;0,300;0,400;0,500;0,700;1,300;1,400;1,600&family=Poppins:ital,wght@0,100;0,200;1,100&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css"/>
+  <title>Rock Paper Scissors</title>
+</head>
+<body class="all-page"> 
+  <aside class="user-section" id="userSection">
+    <img class="user-token" id="cute" src= "src/girl.png" alt="user">
+    <h3>User</h3>
+    <div class="counter" id="userCounter">Wins: 0</div>
+    <img class="notneeded" id="funnyRPS" src= "src/funnyRPS.png" alt="rock paper scissors">
+  </aside>
+  <main>
+    <h1>Rock Paper Scissors</h1>
+    <h2 class="before-game-header" id='beforeGameHeader'>Choose Your Game!</h2>
+    <h2 class="during-game-header hidden" id="duringGameHeader">Choose Your Fighter</h2>
+    <section class="both-rules" id="bothRules">
+      <div class="rules" id="classic">
+        <h3>Classic</h3>
+        <p> 🪨 📜 ✂️ </p>
+        <p>rock > scissors</p>
+        <p>paper > rock </p>
+        <p> scissors > paper</p>
+      </div>
+      <div class="rules" id="difficult">
+        <h3>Difficult</h3>
+        <p>🪨 📜 ✂️ 🦎 👽</p>
+        <p>rock > scissors and lizard</p>
+        <p>paper > rock + alien</p>
+        <p>scissors > paper and lizard</p>
+        <p>lizard > paper + alien</p>
+        <p> alien > scissors and rock</p>
+      </div>
+      <section class="fight-section hidden" id="fightSection"></section>
+    </section>
+  </main> 
+  <aside class="computer-section" id="computerSection">
+    <img class="computer-token" id="laptop" src= "src/apple.jpg" alt="laptop icon">
+    <h3>Computer</h3>
+    <div class="counter" id="computerCounter">Wins: 0</div>
+    <button class="change-game-button hidden" id='changeGameButton'>Change Game?</button>
+  </aside>
+  <script type="text/javascript" src="main.js"></script>
+</body>
+</html>
