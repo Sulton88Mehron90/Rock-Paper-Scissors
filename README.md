@@ -5,7 +5,9 @@ This application allows a user to play the game of Rock, Papers, Scissors agains
 
 ### Installation Instructions:
 ##### Run via web
-[Click Here to Launch](https://github.com/Sulton88Mehron90/Rock-Paper-Scissors)
+[Click Here to Launch](https://sulton88mehron90.github.io/Rock-Paper-Scissors/)
+
+[Rock Papers Scissors](hhttps://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf)
 ##### Run local
 If someone chooses to run this app. Plese follow the steps below:
  - Fork this project to your own Github account
