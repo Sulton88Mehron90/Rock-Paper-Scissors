@@ -20,8 +20,7 @@ difficultSection.addEventListener('click', loadDifficultGame);
 changeGameButton.addEventListener('click', changeGame);
 fightSection.addEventListener('click', chooseFighter);
 
-// functions:
-
+// EventHandlers & Functions:
 function createPlayer(user, token){
   var player = {
     name: user,
@@ -145,7 +144,6 @@ function changeGame() {
 };
 
 function displayFighters(userChoice, computerChoice) {
-  // var fighterIcons = document.querySelectorAll('.fighter-icons');
   var playerFighter = document.getElementById(userChoice.fighter);
   var computerFighter = document.getElementById(computerChoice.fighter);
   fightSection.innerHTML =
@@ -178,7 +176,6 @@ function showDifficultFighters() {
 };
 
 function resetBoard() {
-  // var fighterIcons = document.querySelectorAll('.fighter-icons');
   for (var i = 0; i < fighterIcons.length; i++) {
     show(fighterIcons[i]);
   };
