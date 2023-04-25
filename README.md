@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors 
 
 ### Abstract:
-<!-- This is a functional website where you can enter, and choose whether you want to see an affirmation or mantra that can be viewed if you click the "Receive Message" button to get a random affirmation and mantra from the website. Also if you choose to create your own mantra and affirmation, it is possible to do here! Click the "Add your Message" button to do that. Your entered affirmation or mantra will be added to the array of affirmation and mantras within the code. When going through the list, your messages will appear from the array list. Working on this project helped not only to gain experience using HTML, CSS, and Javascript. Also, reading the affirmation and mantras helped me a great deal. It truly was God sent, considering the difficult time I am going through in my life right now. I am grateful for the opportunity and the inspiring affirmations and mantras that I've read many times during the project. -->
+This application allows a user to play the game Rock, Papers, Scissors against the computer who is making random selections. The user can play two different game modes: classic with 3 choices, and advanced with 5 choices. Total wins are saved and displayed for both the user and computer player.
 
 ### Installation Instructions:
 If someone chooses to run this app. Plese follow the steps below:
@@ -17,8 +17,7 @@ If someone chooses to run this app. Plese follow the steps below:
   [Self Care Center](https://github.com/Sulton88Mehron90/self-care-center/blob/finalising/assets/ezgif.com-gif-maker.gif) -->
 
 ### Context:
-<!-- [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
-Self-Care-Center is a solo project that was assigned Tuesday evening. Finished it Sunday morning. I am a repeater and am now through my third week of Mod 1 with 2303 cohort. -->
+This project was built from scratch as my final Module 1 project at the Turing School of Software & Design. Students were provided with a project specification document, which detailed the required functionality. I used vanilla HTML, CSS, and functional programming in JavaScript to implement all required features. Student were also allowed to choose our own theme and images, which I have done for this project.
 
 <!-- ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.) -->
@@ -29,11 +28,12 @@ Self-Care-Center is a solo project that was assigned Tuesday evening. Finished i
 The goals of this project were to gain some experience using HTML, CSS, and Javascript all in coordination with each other. Also use HTML and CSS specifically to try and match a given comp with a bit of challage under "Choose your own Adventure" the opportunity to individualize the skills we build. -->
 
 ### Wins + Challenges:
-<!-- [//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?)
+<!-- <!-- [//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?) -->
 Wins:
-- I started this project more confident, and felt comfortable using HTML and then adding some CSS to it.
-The big win for me is not to be nervous because I understand and more familiar with HTML, CSS and JS. At the same time I am only on the very beginning of my journey. Lots and Lots to learn which is exciting.
+- This was the first project where we were given creative freedom to make the game board. I really enjoyed this process and found it extremely beneficial for my learning of CSS and HTML.
+- More cunfident to get value from nested properties of an object.
+- using the `debugger` to solve the issues of the brocen code.
 
 Challenges:
- - I would create some functionality, which would then affect some other part. So it was challenging work. Also in the beginning of the project I thought I will add functionality like favorite, deleteing files and editing messages. Wich didn’t workout this time. I will continue to work on improveing this app and practicing what I am learning.
-I struggled with the CSS `flex` getting my elements the way I wanted them. I am still fuzzy on understanding which parts were controlling the boxes and which ones I need to style. I definitely will be practicing by using and learning CSS. -->
+ - I struggled with the Git Hub this time around. I accidentally manage to do `git init` inside home directory. Eventhough I removed the hidden .git file i still was getting errors when i was trying to push my work. I didn't see a main branch for some reason. I definitely will be practicing and learning Git Hub to avoid mistakes in the future.
+- 
