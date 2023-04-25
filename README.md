@@ -13,11 +13,15 @@ If someone chooses to run this app. Plese follow the steps below:
  - `cd` into the project
  - Run the app from your VS code
  - Or run `open index.html` to automatically open the site in your browser
-
+  
 ### Preview of App:
-<!--[//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.) -->
+<!-- [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.) -->
 
-  [Rock Papers Scissor](hhttps://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf)
+<!-- [Rock Paper Scissors](hhttps://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf) -->
+
+<!-- ![in the Pamir Mountains, at 77km is the longest glacier outside of the polar regions.](https://i0.wp.com/www.factsinstitute.com/wp-content/uploads/2020/12/Interesting-facts-about-Tajikistan-1.jpg?w=732&ssl=1) -->
+  
+[Rock Papers Scissors](hhttps://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf)
 
 ### Context:
 This project was built as my final Module 1 project at the Turing School of Software & Design. Students were provided with a project specification document, which detailed the required functionality. I used vanilla HTML, CSS, and functional programming in JavaScript to implement all required features. Student were also allowed to choose our own theme and images, which I have done for this project.
