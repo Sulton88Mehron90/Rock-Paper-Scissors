@@ -23,12 +23,11 @@ This project was built from scratch as my final Module 1 project at the Turing S
 [//]: <> (Who worked on this application? Link to their GitHubs.) -->
 
 ### Learning Goals:
-<!-- [//]: <> (What were the learning goals of this project? What tech did you work with?)
-
-The goals of this project were to gain some experience using HTML, CSS, and Javascript all in coordination with each other. Also use HTML and CSS specifically to try and match a given comp with a bit of challage under "Choose your own Adventure" the opportunity to individualize the skills we build. -->
+<!-- [//]: <> (What were the learning goals of this project? What tech did you work with?) -->
+The goals of this project were to gain  experience using HTML, CSS, and Javascript all in coordination with each other.
 
 ### Wins + Challenges:
-<!-- <!-- [//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?) -->
+
 Wins:
 - This was the first project where we were given creative freedom to make the game board. I really enjoyed this process and found it extremely beneficial for my learning of CSS and HTML.
 - More cunfident to get value from nested properties of an object.
@@ -36,4 +35,3 @@ Wins:
 
 Challenges:
  - I struggled with the Git Hub this time around. I accidentally manage to do `git init` inside home directory. Eventhough I removed the hidden .git file i still was getting errors when i was trying to push my work. I didn't see a main branch for some reason. I definitely will be practicing and learning Git Hub to avoid mistakes in the future.
-- 

@@ -46,7 +46,7 @@ function createGame(gameType){
     currentGame = game;
     return currentGame;
 };
-    
+  
 function chooseGame(event) {
   if(event.target.closest('#classic')) {
     game.type = 'classic'
