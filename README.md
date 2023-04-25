@@ -40,4 +40,4 @@ Wins:
 - using the `debugger` to solve the issues of the broken code.
 
 Challenges:
- - I struggled with the Git Hub this time around. I accidentally manage to do `git init` inside home directory. Eventhough I removed the hidden .git file i still was getting errors when i was trying to push my work. I didn't see a main branch for some reason. I definitely will be practicing and learning Git Hub to avoid mistakes in the future.
+ - I struggled with the Git Hub this time around. I accidentally manage to initiate `git init` inside home directory. Eventhough I removed the hidden .git file I still was getting errors when I was trying to push my work. I didn't see a main branch for some reason. I definitely will be practicing and learning Git Hub to avoid mistakes in the future.
