@@ -4,9 +4,9 @@
 This application allows a user to play the game of Rock, Papers, Scissors against the computer who is making random selections. The user can play two different game modes: classic with 3 choices, and advanced with 5 choices. Total wins are saved and displayed for both the user and computer player.
 
 ### Installation Instructions:
-##### Run via web
+##### Run via web:
 [Click Here to Launch](https://sulton88mehron90.github.io/Rock-Paper-Scissors/)
-##### Run local
+##### Run local:
 If someone chooses to run this app. Plese follow the steps below:
  - Fork this project to your own Github account
  - Clone the repository to your local machine
@@ -16,15 +16,11 @@ If someone chooses to run this app. Plese follow the steps below:
   
 ### Preview of App:
 <!-- [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.) -->
-
-<!-- [Rock Paper Scissors](hhttps://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf) -->
-
-<!-- ![in the Pamir Mountains, at 77km is the longest glacier outside of the polar regions.](https://i0.wp.com/www.factsinstitute.com/wp-content/uploads/2020/12/Interesting-facts-about-Tajikistan-1.jpg?w=732&ssl=1) -->
   
 [Rock Papers Scissors](https://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf)
 
 ### Context:
-This project was built as my final Module 1 project at the Turing School of Software & Design. Students were provided with a project specification document, which detailed the required functionality. I used vanilla HTML, CSS, and functional programming in JavaScript to implement all required features. Student were also allowed to choose our own theme and images, which I have done for this project.
+This project was built as the final Module 1 project at the Turing School of Software & Design. Students were provided with a project specification document, which detailed the required functionality. I used vanilla HTML, CSS, and functional programming in JavaScript to implement all required features. Student were also allowed to choose our own theme and images, which I have done for this project.
 
 <!-- ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.) -->
