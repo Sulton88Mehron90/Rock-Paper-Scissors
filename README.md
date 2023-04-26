@@ -15,7 +15,7 @@ If someone chooses to run this app. Plese follow the steps below:
  - Or run `open index.html` to automatically open the site in your browser
   
 ### Preview of App:
-<!-- [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.) -->
+<!-- [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off) -->
   
 [Rock Papers Scissors](https://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf)
 
