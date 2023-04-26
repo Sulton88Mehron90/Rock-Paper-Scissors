@@ -19,6 +19,7 @@ If someone chooses to run this app. Plese follow the steps below:
   
 [Rock Papers Scissors](https://www.loom.com/share/8c43aacc706b40029ef4732d7b87becf)
 
+<!-- // target="_blank" -->
 ### Context:
 This project was built as the final Module 1 project at the Turing School of Software & Design. Students were provided with a project specification document, which detailed the required functionality. I used vanilla HTML, CSS, and functional programming in JavaScript to implement all required features. Student were also allowed to choose our own theme and images, which I have done for this project.
 
