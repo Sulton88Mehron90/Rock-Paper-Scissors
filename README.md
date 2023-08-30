@@ -3,9 +3,11 @@
 ### Abstract:
 This application allows a user to play the game of Rock, Papers, Scissors against the computer who is making random selections. The user can play two different game modes: classic with 3 choices, and advanced with 5 choices. Total wins are saved and displayed for both the user and computer player.
 
+[DEPLOYED LINK](https://rock-paper-scissors-lime-five.vercel.app/)
+
 ### Installation Instructions:
-##### Run via web:
-[Click Here to Launch](https://sulton88mehron90.github.io/Rock-Paper-Scissors/)
+<!--##### Run via web:
+[Click Here to Launch](https://sulton88mehron90.github.io/Rock-Paper-Scissors/) -->
 ##### Run local:
 If someone chooses to run this app. Plese follow the steps below:
  - Fork this project to your own Github account
